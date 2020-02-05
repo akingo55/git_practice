@@ -1,2 +1,3 @@
 secret/
-!secret/test.txt
+*.txt
+!test.txt
